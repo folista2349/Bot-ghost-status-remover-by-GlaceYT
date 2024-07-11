@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Stoi na straży mechanika."];
+const statusMessages = ["Wbij na ClickMc.pl już dziś!"];
 
 
 let currentIndex = 0;
