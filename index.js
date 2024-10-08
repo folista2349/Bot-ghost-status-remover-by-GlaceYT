@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Waiting for water"];
+const statusMessages = ["Game release: 31.10"];
 
 
 let currentIndex = 0;
